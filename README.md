@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">A passionate chef and backend developer from Italy</h3>
+<h3 align="center">A passionate backend developer and chef from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djguruge&label=Profile%20views&color=0e75b6&style=flat" alt="djguruge" /> </p>
 
