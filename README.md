@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Java and Spring project's**
 
-- 🤝 I’m looking for help with **to improve my skills in Java and Spring**
+- 🤝 I’m looking **to improve my skills in Java and Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DjGuruge?tab=projects](https://github.com/DjGuruge?tab=projects)
 
